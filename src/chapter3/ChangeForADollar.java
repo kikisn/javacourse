@@ -3,7 +3,7 @@ package chapter3;
 import java.util.Scanner;
 
 public class ChangeForADollar {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         int pennyValue = 1;
         int nickelValue = 5;
